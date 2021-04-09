@@ -23,6 +23,7 @@
 <img src="https://uosblog.top/wp-content/uploads/2021/04/2021040906354850.png" width="50%"/>
 <img src="https://uosblog.top/wp-content/uploads/2021/04/2021040906354848.png" width="50%"/>
 </p>
+
 **如果只是使用，看到这里就可以了**
 ## API部署
 将 `api/api.php` `api/Xin.png` `api/XinSui.png` 复制到网站目录(同目录)，需要使用PHP扩展:GD库、curl

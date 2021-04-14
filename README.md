@@ -19,8 +19,8 @@
 ## 使用效果
 如果推送成功就返回心型图片，如果失败就返回心碎图片；累计推送次数、并防止重复推送
 <p>
-<img src="https://uosblog.top/wp-content/uploads/2021/04/2021041402381893.png" width="100%"/>
-<img src="https://uosblog.top/wp-content/uploads/2021/04/2021041402382472.png" width="100%"/>
+<img src="https://uosblog.top/wp-content/uploads/2021/04/2021041402381893.png" width="80%"/>
+<img src="https://uosblog.top/wp-content/uploads/2021/04/2021041402382472.png" width="80%"/>
 </p>
 
 **如果只是使用，看到这里就可以了**

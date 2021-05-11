@@ -21,6 +21,7 @@
 <p>
 <img src="https://uosblog.top/wp-content/uploads/2021/04/2021041402381893.png" width="75%"/>
 <img src="https://uosblog.top/wp-content/uploads/2021/04/2021041402382472.png" width="75%"/>
+<img src="https://uosblog.top/wp-content/uploads/2021/05/2021051113183091.png" width="75%"/>
 </p>
 
 **如果只是使用，看到这里就可以了**
